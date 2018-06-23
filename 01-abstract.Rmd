@@ -1,0 +1,15 @@
+# Résumé et Abstract {-}
+
+**Résumé**
+
+*Cecropia* Loefl. (Urticaceae) est un des genres les plus emblématique des néotropiques. Il regroupe des espèces d’arbres pionniers avec une importance écologique toute particulière puisqu’ils constituent les peuplements initiaux de la succession forestière et des peuplements de forêts secondarisées. Bien que plusieurs espèces de *Cecropia* soient étudiées dans des domaines très divers, la systématique du genre est paradoxalement très mal connue et la détermination des espèces reste difficile malgré la publication d’un volume de Flora Neotropica par Berg et Franco-Rosselli (2005). Dans ce travail, je propose une nouvelle lecture de cet ouvrage en construisant une clef de détermination multi-entrées et illustrée, pour les 61 espèces du genre, à l’aide de la plate-forme Xper2. J’associe à ce travail une base de donnée photographique ainsi que des fiches de reconnaissance illustrées pour 22 espèces. Afin de stimuler la collecte de nouvelles informations sur ce genre dans un esprit de « science citoyenne », je propose un protocole de prise de vue photographique, facilement réalisable par le néophyte, et permettant d’accéder aux caractères clefs pour l’identification des espèces et la compréhension de leur variabilité phénotypique.
+
+**Mots clés**: *cecropia; protocole; XPER; logiciel d’identification*.
+
+**Abstract**
+*Cecropia* Loefl. (Urticaceae) is one of the most important genus of the neotropics. It includes several species of pioneer trees. They play an important role in the initial stands of forest succession and stands of secondary forest. Several species of *Cecropia* are studied in different fields of research; however, systematics of the genus is paradoxically poorly known. Species identification remains difficult despite the availability of dichotomous key and description in a volume of Flora Neotropica that edited by Berg and Franco-Rosselli (2005). In the present study, I propose a new interpretation of this publication by a multi-entry key developed with the Xper2 platform to identify 61 Cecropia species. Furthermore, I constructed a photographic library and edited rapid color guides for 22 species. To motivate new observations and "citizen science" opportunity, I suggested a protocol to take pictures that is easily to follow by the novice; and to access to key characters for the identification of species and understanding of their phenotypic variability.
+
+**Key words**: *cecropia; protocol; XPER; identification software*
+\pagebreak
+
+\pagenumbering{arabic}

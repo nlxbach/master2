@@ -1,0 +1,23 @@
+--- 
+title: "Une description taxonomique du genre *Cecropia* (Urticaceae): Réalisation d’une clef d’identification multi-entrées"
+author: "Nguyen Le Xuan bach"
+date: "Février – Juin 2012"
+site: bookdown::bookdown_site
+documentclass: article
+papersize: a4
+output: 
+  bookdown::gitbook
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+colorlinks : true
+linkcolor : blue
+description: "This is master's thesis writting with bookdown package in R"
+---
+
+
+\pagenumbering{roman} 
+
+
+

@@ -1,0 +1,21 @@
+\babel@toc {french}{}
+\contentsline {section}{Résumé et Abstract}{i}{section*.2}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Matériels et Méthodes}{9}{section.2}
+\contentsline {subsection}{\numberline {2.1}Construction d'une base de donnée photographique}{9}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Construction d'une base de données relatives aux échantillons d'herbiers sous le logiciel BRAHMS et édition des cartes de répartition des espèces.}{10}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Construction d'une matrice de caractère à partir de l'ouvrage de Berg et Rosselli (2005) et intégration au logiciel Xper2}{10}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Construction de la clef interactive multi-entrée sous XPER\textsuperscript {2}, une plate-forme dédiée à l'identification assistée par ordinateur}{11}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Analyse de la matrice de caractère}{12}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Analyse du pouvoir discriminant des caractères morphométriques}{12}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}Classification hiérarchique des espèces}{14}{subsubsection.2.5.2}
+\contentsline {subsection}{\numberline {2.6}Etude de cas en Guyane française}{15}{subsection.2.6}
+\contentsline {section}{\numberline {3}Résultat}{17}{section.3}
+\contentsline {subsection}{\numberline {3.1}La base de donnée de \emph {Cecropia}}{17}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Notice d'utilisation de la clef multi-entrée : l'exemple de \emph {C. distachya}}{17}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Analyse discriminante des caractères selon différents indices de dissimilarité}{24}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Comparaison des espèces via une classification ascendante hiérarchique}{27}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}La diversité des espèces Guyanaise : études de cas.}{31}{subsection.3.5}
+\contentsline {section}{\numberline {4}Discussion}{34}{section.4}
+\contentsline {section}{\numberline {5}Conclusion}{37}{section.5}
+\contentsline {section}{Bibliographie}{38}{section*.19}

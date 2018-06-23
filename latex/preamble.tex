@@ -1,0 +1,40 @@
+\usepackage{booktabs}
+\usepackage{amsthm}
+\usepackage{lipsum} % Dummy text.
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+\usepackage{pdfpages}
+\usepackage[left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+%=====================
+%change font size
+\usepackage{scrextend}
+\changefontsizes{13pt}
+%=====================
+
+%++++++++++++++++
+%THUT DAU DONG
+%\parindent 0ex %khong thut dau dong
+\setlength{\parindent}{1cm}%thụt đầu dòng 1 cm
+%\setlength{\parskip}{1em} %khoang cach giua 2 doan van
+%\renewcommand{\baselinestretch}{1.25} %khoảng cách giua 2 dòng
+\linespread{1.5} %khoảng cách giua 2 dòng
+%++++++++++++++++
+\usepackage{fontspec}
+\usepackage{float}
+\usepackage{setspace}
+\usepackage{caption}
+\captionsetup[table]{font={stretch=1}}     %% change 1.2 as you like
+\captionsetup[figure]{font={stretch=1}}    %% change 1.2 as you like
+ %% or
+ %% \captionsetup{font={stretch=1.2}}  %% this affects both figure and table
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage[nottoc, notlot, notlof]{tocbibind}
+
+
+
+
