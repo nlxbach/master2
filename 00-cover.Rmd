@@ -4,6 +4,7 @@
 knitr::include_graphics("figure/cover.png")
 ```
 
+This is the online version of my master thesis in French.  The pdf version is available for download [here](nguyenlxb_master2.pdf)
 
 \pagebreak
 

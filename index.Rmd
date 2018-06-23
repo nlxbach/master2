@@ -1,6 +1,6 @@
 --- 
 title: "Une description taxonomique du genre *Cecropia* (Urticaceae): Réalisation d’une clef d’identification multi-entrées"
-author: "Nguyen Le Xuan bach"
+author: "Nguyen Le Xuan Bach"
 date: "Février – Juin 2012"
 site: bookdown::bookdown_site
 documentclass: article

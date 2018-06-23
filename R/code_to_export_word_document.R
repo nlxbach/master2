@@ -22,8 +22,8 @@ pdfMerge <- function(doc1, doc2, filename="final.pdf"){
   system2("C:/Program Files (x86)/PDFtk Server/bin/pdftk.exe", paste(doc1, doc2, "cat output", filename))
 }
 
-doc1 <- "_book/master2.pdf"
-doc2 <- "_book/appendix.pdf"
+doc1 <- "master2.pdf"
+doc2 <- "appendix.pdf"
 pdfMerge(doc1,doc2, "master2_final.pdf")
 
 system2("C:/Program Files (x86)/PDFtk Server/bin/pdftk.exe", "_book/master2.pdf _book/appendix.pdf cat output final2.pdf")
